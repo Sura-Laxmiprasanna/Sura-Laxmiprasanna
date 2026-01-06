@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sura Laxmiprasanna</h1>
-<h3 align="center">An Aspiring Software Engineer from India</h3>
+<h3 align="center">An Aspiring AI Engineer from India</h3>
 
 - 🔭 I’m currently working on **ZenFlow - Enlightened Yoga Pose Classification Via Transfer Learning Mastery**
 
-- 🌱 I’m currently learning **DATA SCIENCE**
+- 🌱 I’m currently learning **DATA SCIENCE AND ARTIFICIAL INTELLIGENCE**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/laxmiprasanna-sura/project-page](https://sites.google.com/view/laxmiprasanna-sura/project-page)
 
